@@ -57,4 +57,7 @@ This repository contains exercises and contents of the eXcript PHP course. Here 
  - Modificadores de Acesso	
 
 Sobre o curso? http://excript.com/curso-php.html
+
+Fonte de pesquisa: https://secure.php.net/docs.php
+
 Videos aula: https://www.youtube.com/playlist?list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd
