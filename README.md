@@ -1,7 +1,9 @@
 # eXcript PHP Course
 #### By: Cláudio Rogério Carvalho Filho
+#### This repository contains contents of the eXcript PHP course. Here you have the repository in Portuguese.
 
-This repository contains exercises and contents of the eXcript PHP course. Here you have the repository in Portuguese.
+
+#### Curso concluído :D
 
  - Ambiente de Desenvolvimento PHP 	
  - Servidor Web PHP 	
