@@ -1,62 +1,24 @@
+# eXcript C++ Course
+#### By: Cláudio Rogério Carvalho Filho
+#### This repository contains contents of the eXcript C++ course. Here you have the repository in Portuguese.
+
+
+#### Curso em andamento :D
+
+Sobre o curso? http://excript.com/curso-cpp.html
+
+Fonte de pesquisa: www.cplusplus.com/forum/
+
+Videos aula: https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo
+
+
+
 # eXcript PHP Course
 #### By: Cláudio Rogério Carvalho Filho
 #### This repository contains contents of the eXcript PHP course. Here you have the repository in Portuguese.
 
 
 #### Curso concluído :D
-
- - Ambiente de Desenvolvimento PHP 	
- - Servidor Web PHP 	
- - URL e Apache 	
- - Executando Scripts PHP
- - TAGS PHP 	
- - Montagem do HTML 		
- - Definições da Linguagem PHP 	
- - Variáveis	e Pseudo-variáveis	
- - Nomenclatura de Variáveis	
- - Operadores Aritméticos	
- - Tipos de Dados do PHP 		
- - Tomada de Decisão em PHP	
- - Ambiente para Estudo PHP 		
- - Operadores Relacionais		
- - Operadores Lógicos	
- - Estruturas de Repetição	 	
- - Script em Looping	
- - Atribuição vs Comparação vs Identico	
- - Operadores de Atribuição Compostos	
- - Operadores de Incremento e Decremento	
- - Instrução break e continue	
- - Operação Ternária	 	
- - Estrutura de Seleção Múltipla switch		
- - Precedência e Associatividade de Operadores	
- - Constantes
- - Arrays e Arrays Indexados
- - Arrays Associativos	
- - Arrays Multidimensionais
- - Iterando Arrays
- - Definindo, Incluindo, Alterando e Excluindo elementos			
- - Estrutura foreach	 	 		
- - Funções e parâmetros em PHP
- - Funções variádicas
- - Visibilidade das Funções	
- - Funções Modificadoras	
- - Sobrescrita de Funções em PHP
- - Lista de Parâmetros				
- - Parâmetros por Referência		
- - Parâmetros Tipados		
- - Null Coalescing Operator	
- - Operador SpaceShift	
- - Importação: include() e require() do PHP 	
- - Funções Anônimas					
- - Manipulação de Strings
- - String heredoc e nowdoc
- - Requisições Web	
- - Formulários HTML e PHP 		 	
- - PHP Orientado a Objetos			 	
- - Construtores e Destrutores	
- - Encapsulamento	
- - Herança	
- - Modificadores de Acesso	
 
 Sobre o curso? http://excript.com/curso-php.html
 
